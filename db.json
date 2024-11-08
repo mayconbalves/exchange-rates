@@ -1,28 +1,17 @@
 {
-  "registrations": [
-    {
-      "id": "3",
-      "admissionDate": "22/10/2023",
-      "email": "luiz@caju.com.br",
-      "employeeName": "Luiz Filho",
-      "status": "REPROVED",
-      "cpf": "56642105087"
-    },
-    {
-      "id": "1",
-      "admissionDate": "22/10/2023",
-      "email": "filipe@caju.com.br",
-      "employeeName": "Filipe Marins",
-      "status": "REVIEW",
-      "cpf": "78502270001"
-    },
-    {
-      "id": "2",
-      "admissionDate": "22/10/2023",
-      "email": "jose@caju.com.br",
-      "employeeName": "José Leão",
-      "status": "APPROVED",
-      "cpf": "78502270001"
-    }
-  ]
+  "success": true,
+  "timestamp": 1731001326,
+  "base": "EUR",
+  "date": "2024-11-07",
+  "rates": {
+    "AED": 3.966957,
+    "AFN": 73.443002,
+    "ALL": 98.688805,
+    "AMD": 418.224434,
+    "ANG": 1.945958,
+    "AOA": 985.539966,
+    "ARS": 1073.821521,
+    "USD": 1.080042,
+    "ZWL": 347.772992
+  }
 }
