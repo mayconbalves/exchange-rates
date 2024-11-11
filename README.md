@@ -1,4 +1,5 @@
 # Exchange rates
+<img width="1434" alt="Captura de Tela 2024-11-10 às 22 35 08" src="https://github.com/user-attachments/assets/dcbff069-fec3-40b1-b096-b91e57e3336f">
 
 ## Instruções de como rodar o projeto ou [acesse aqui.](exchange-rates-woad-zeta.vercel.app)
 
@@ -117,7 +118,3 @@ O desafio é criar uma tabela com 3 dados Moeda, valor e horário.
 - ✅ Storybook
 - ✅ Configuração de CI/CD com deploy automatizado
 - ✅ Utilizar css module
-
-## HomePage
-<img width="1434" alt="Captura de Tela 2024-11-10 às 22 35 08" src="https://github.com/user-attachments/assets/dcbff069-fec3-40b1-b096-b91e57e3336f">
-
