@@ -1,0 +1,12 @@
+.wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100vh - 144px);
+  position: relative;
+}
+
+.wrapper__button {
+  margin: 20px;
+}
