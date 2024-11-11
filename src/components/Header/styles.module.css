@@ -1,0 +1,13 @@
+.wrapper {
+  align-items: center;
+  background-color: #001b74;
+  display: flex;
+  height: 72px;
+  width: 100%;
+}
+
+.wrapper__title {
+  color: #ffffff;
+  font-size: large;
+  margin: 5px;
+}

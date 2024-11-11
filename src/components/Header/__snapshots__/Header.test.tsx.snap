@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Should be create snapshot 1`] = `
+<div>
+  <header
+    class="wrapper"
+  >
+    <img
+      alt="B3 logo"
+      src="./logo.png"
+    />
+    <h2
+      class="wrapper__title"
+    >
+      Exchange Rates
+    </h2>
+  </header>
+</div>
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination Component Should be create snapshot 1`] = `
+<div>
+  <div
+    class="wrapper"
+  >
+    <button
+      class="button"
+    >
+      Anterior
+    </button>
+    <span
+      class="pagination__span"
+    >
+       
+      Página 
+      3
+       de 
+      4
+       
+    </span>
+    <button
+      class="button"
+    >
+      Próxima
+    </button>
+  </div>
+</div>
+`;

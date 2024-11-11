@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Component Should be create snapshot 1`] = `
+<div>
+  <footer
+    class="wrapper"
+  >
+    <img
+      alt="B3 logo"
+      src="./logo.png"
+    />
+  </footer>
+</div>
+`;

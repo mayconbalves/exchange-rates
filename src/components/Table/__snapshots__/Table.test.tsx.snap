@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Component Should be create snapshot 1`] = `
+<div>
+  <table
+    class="table"
+  >
+    <thead>
+      <tr>
+        <th
+          class="header"
+        >
+          <div
+            class="header__content"
+          >
+            Moeda
+            <div
+              class="icon__container"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M279 224H41c-21.4 0-32.1-25.9-17-41L143 64c9.4-9.4 24.6-9.4 33.9 0l119 119c15.2 15.1 4.5 41-16.9 41z"
+                />
+              </svg>
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41z"
+                />
+              </svg>
+            </div>
+          </div>
+        </th>
+        <th
+          class="header"
+        >
+          <div
+            class="header__content"
+          >
+            Valor (em EUR)
+            <div
+              class="icon__container"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M279 224H41c-21.4 0-32.1-25.9-17-41L143 64c9.4-9.4 24.6-9.4 33.9 0l119 119c15.2 15.1 4.5 41-16.9 41z"
+                />
+              </svg>
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41z"
+                />
+              </svg>
+            </div>
+          </div>
+        </th>
+        <th
+          class="header"
+        >
+          <div
+            class="header__content"
+          >
+            Horário
+            <div
+              class="icon__container"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M279 224H41c-21.4 0-32.1-25.9-17-41L143 64c9.4-9.4 24.6-9.4 33.9 0l119 119c15.2 15.1 4.5 41-16.9 41z"
+                />
+              </svg>
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="color: rgb(187, 187, 187); cursor: pointer;"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41z"
+                />
+              </svg>
+            </div>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        class="row"
+      >
+        <td
+          class="cell"
+        >
+          <p>
+            USD
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            1.12
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            2024-11-09 às 21:37:02
+          </p>
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="cell"
+        >
+          <p>
+            GBP
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            0.85
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            2024-11-09 às 21:37:02
+          </p>
+        </td>
+      </tr>
+      <tr
+        class="row"
+      >
+        <td
+          class="cell"
+        >
+          <p>
+            JPY
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            130.50
+          </p>
+        </td>
+        <td
+          class="cell"
+        >
+          <p>
+            2024-11-09 às 21:37:02
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
