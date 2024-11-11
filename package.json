@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d dist",
     "test:dev": "jest --watch --verbose --no-cache",
     "test:watch": "jest -u --watch",
-    "test:coverage": "jest --coverage --coverageReporters='text-summary'",
+    "test:coverage": "jest --coverage",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "lint:fix": "yarn lint --fix",
     "prettier": "prettier --write */**/*.{js,json,ts,tsx,css,md}",
@@ -27,11 +27,9 @@
     "json-server": "^1.0.0-beta.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^5.2.1",
+    "react-icons": "^5.3.0",
     "react-loader-spinner": "^6.1.6",
-    "react-router-dom": "5.1.2",
-    "styled-components": "^6.1.11",
-    "zustand": "^5.0.0"
+    "react-router-dom": "5.1.2"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.9.0",
@@ -69,6 +67,7 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "eslint-plugin-storybook": "^0.10.1",
     "husky": "^9.1.6",
+    "identity-obj-proxy": "^3.0.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "29.7.0",
     "lint-staged": "^15.2.10",

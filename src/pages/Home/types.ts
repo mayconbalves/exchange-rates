@@ -1,8 +1,11 @@
-export type Registrations = {
-  id: string
-  admissionDate: string
-  email: string
-  employeeName: string
-  status: 'REPROVED' | 'APPROVED' | 'REVIEW'
-  cpf: string
+export type RateItem = {
+  rate: string
+  value: number
+  date: string
+  timestamp: number
+}
+
+export type ApiResponse = {
+  BRL: number
+  [key: string]: number
 }

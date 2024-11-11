@@ -4,17 +4,15 @@ import routes from './routes'
 
 const Router = () => {
   return (
-    <div style={{ marginTop: 64 }}>
-      <HashRouter>
-        <Switch>
-          <Route exact path={routes.homepage} component={HomePage} />
+    <HashRouter>
+      <Switch>
+        <Route exact path={routes.homepage} component={HomePage} />
 
-          <Route exact path="*">
-            <Redirect to={routes.homepage} />
-          </Route>
-        </Switch>
-      </HashRouter>
-    </div>
+        <Route exact path="*">
+          <Redirect to={routes.homepage} />
+        </Route>
+      </Switch>
+    </HashRouter>
   )
 }
 

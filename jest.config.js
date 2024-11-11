@@ -10,7 +10,9 @@ export default {
     '^.+\\.(js|jsx)$': 'babel-jest'
   },
   moduleNameMapper: {
-    '^~/(.+)': '<rootDir>/src/$1'
+    '^~/(.+)': '<rootDir>/src/$1',
+    '\\.module\\.css$': 'identity-obj-proxy',
+    '\\.css$': '<rootDir>/__mocks__/styleMock.js'
   },
   setupFilesAfterEnv: ['<rootDir>/setupTests.ts']
 }
