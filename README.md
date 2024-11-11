@@ -1,6 +1,6 @@
 # Exchange rates
 
-## Instruções de como rodar o projeto ou [acesse aqui.](https://caju-mauve.vercel.app/#/dashboard)
+## Instruções de como rodar o projeto ou [acesse aqui.](exchange-rates-woad-zeta.vercel.app)
 
 ### Faça o clone do projeto:
 
@@ -86,7 +86,8 @@ yarn test:watch
 yarn test:coverage
 ```
 
-<img width="812" alt="Captura de Tela 2024-10-24 às 21 07 23" src="https://github.com/user-attachments/assets/064d482f-6c22-4c1b-a0a8-0042b4d20b08">
+<img width="875" alt="Captura de Tela 2024-11-10 às 22 21 44" src="https://github.com/user-attachments/assets/94400738-cd07-41af-9cc1-b9d118746688">
+
 <br />
 
 Se tudo ocorreu bem os seguintes serviços estarão disponiveis em:
@@ -118,3 +119,5 @@ O desafio é criar uma tabela com 3 dados Moeda, valor e horário.
 - ✅ Utilizar css module
 
 ## HomePage
+<img width="1434" alt="Captura de Tela 2024-11-10 às 22 35 08" src="https://github.com/user-attachments/assets/dcbff069-fec3-40b1-b096-b91e57e3336f">
+
